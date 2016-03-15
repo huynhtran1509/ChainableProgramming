@@ -1,0 +1,6 @@
+framework module Pods_ChainableProgramming {
+  umbrella header "Pods-ChainableProgramming-umbrella.h"
+
+  export *
+  module * { export * }
+}
